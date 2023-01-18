@@ -17,7 +17,7 @@ Homemade paper making is a fairly easy way to repurpose scraps or sheets of pape
 
 ### Instructions
 ##### Step 1 - Set Up
-- Fill your basin tub halfway with water
+- Fill 1/3 of your basin tub with water
 - Fill 3/4 of your bucket/bowl with water
 
 ##### Step 2 - Preparing The Paper
@@ -26,3 +26,11 @@ Homemade paper making is a fairly easy way to repurpose scraps or sheets of pape
 - Submerge the scraps of paper in the bucket/bowl for 3 to 12 hours
 
 ##### Step 3 - Pulp Making
+- Fill a blender with water
+- Put around 1/2 cup of the paper into the blender
+- Blend until its consistency turns slush like
+- Pour the blended pulp into the basin
+- Repeat this step until all of the paper is blended
+
+##### Step 4 - Sheet Formation
+- 
