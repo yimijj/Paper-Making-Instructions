@@ -7,6 +7,7 @@ Homemade paper making is a fairly easy way to repurpose scraps or sheets of pape
 - Mould & Deckle
 - Scrap pieces/sheets of paper
 - Sponge
+- Scissors
 - Rolling pin
 - Basin Tub
 
@@ -15,3 +16,5 @@ Homemade paper making is a fairly easy way to repurpose scraps or sheets of pape
 
 ### Instructions
 ##### Step 1 - Prepare Paper
+1.  Using a pair of scissors, cut up paper into 1cm x 1cm squares
+  1.1 Note that the smaller the squares, the smoother the paper will be
