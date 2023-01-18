@@ -38,6 +38,7 @@ Homemade paper making is a fairly easy way to repurpose scraps or sheets of pape
 - Blend until its consistency turns slush like
 - Pour the blended pulp into the basin
 - Repeat this step until all of the paper is blended
+![pulp](pulp.jpg)
 
 ##### Step 4 - Sheet Formation
 - Hold the mould and deckle together with the deckle ontop
