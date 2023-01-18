@@ -11,4 +11,7 @@ Homemade paper making is a fairly easy way to repurpose scraps or sheets of pape
 - Basin Tub
 
 ### Other Requirements:
-- Flat surfaces
+- Flat surface
+
+### Instructions
+##### Step 1 - Prepare Paper
