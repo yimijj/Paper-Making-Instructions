@@ -54,6 +54,7 @@ Homemade paper making is a fairly easy way to repurpose scraps or sheets of pape
 - Remove the deckle
 - In a swift swoop, put the mould facing down on towel
 - Press down lightly
+![couching](couching.jpg)
 - Slowly lift the mould back up
 
 ##### Step 6 - Pressing
