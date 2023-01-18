@@ -42,6 +42,7 @@ Homemade paper making is a fairly easy way to repurpose scraps or sheets of pape
 - Hold the mould and deckle together with the deckle ontop
 - Dip them into the tub at an 45 degree angle
   - Note to use a smaller angle for steeper basins
+(insert diagram)
 - Slowly slide the mould and deckle to the bottom of the tub
 - Scoop upwards holding the mould and deckle horizontally
 - Lightly shake it left to right, and front to back to evenly distribute the pulp
@@ -50,13 +51,16 @@ Homemade paper making is a fairly easy way to repurpose scraps or sheets of pape
 ##### Step 5 - Couching
 - Remove the deckle
 - In a swift swoop, put the mould facing down on towel
+(insert diagram)
 - Press down lightly
 - Slowly lift the mould back up
+(insert diagram)
 
 ##### Step 6 - Pressing
 - Put a paper towel ontop of the couched sheet
 - Using a sponge, press gently
 - Slowly increase the force with which you press down on the sponge
+(insert diagram)
 - Put the sponge aside
 - Use a rolling pin to press the paper firmly
 
