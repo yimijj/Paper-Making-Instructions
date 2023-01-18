@@ -1,2 +1,1 @@
-# Paper-Making-Instructions
-Homemade paper making instructions
+# How To Make Paper By Hand
