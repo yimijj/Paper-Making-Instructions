@@ -28,6 +28,7 @@ Homemade paper making is a fairly easy way to repurpose scraps or sheets of pape
 
 ##### Step 2 - Preparing The Paper
 - Using a pair of scissors, cut up paper into 1cm x 1cm squares
+ ![cutuppaper](cutuppaper.jpg)
   - Note that the smaller the squares, the smoother the paper will be
 - Submerge the scraps of paper in the bucket/bowl for 3 to 12 hours
 
