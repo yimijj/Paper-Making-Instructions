@@ -17,4 +17,4 @@ Homemade paper making is a fairly easy way to repurpose scraps or sheets of pape
 ### Instructions
 ##### Step 1 - Prepare Paper
 1.  Using a pair of scissors, cut up paper into 1cm x 1cm squares
-  a. Note that the smaller the squares, the smoother the paper will be
+- Note that the smaller the squares, the smoother the paper will be
