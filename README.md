@@ -63,4 +63,5 @@ Homemade paper making is a fairly easy way to repurpose scraps or sheets of pape
 ##### Step 7 - Drying
 - Lay your sheets of paper flat on a smooth flat surface
 - Wait around 1 to 3 days for the paper to dry
+  - Note that paper thickness, weather temperature, and humidity will affect drying speed
 - Once dry, peel the paper off the surface
